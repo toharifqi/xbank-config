@@ -5,7 +5,7 @@ cards:
   message: "Welcome to XBank accounts cards prod APIs"
   contactDetails:
     name: "Sandra Harald - Product Owner"
-    email: "sandra@xbank.com"
+    email: "{cipher}4342fd34a0f78bda77f135865531cc7aec6a1c2f38bf4556466009ed89b1e3b9514159a0845aaa89c09464dd0b3eb03a"
   onCallSupport:
     - (+62) 855-4321-2222
     - (+62) 837-3123-5786
