@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to XBank accounts cards production APIs"
+  message: "Welcome to XBank accounts cards prod APIs"
   contactDetails:
     name: "Sandra Harald - Product Owner"
     email: "{cipher}4342fd34a0f78bda77f135865531cc7aec6a1c2f38bf4556466009ed89b1e3b9514159a0845aaa89c09464dd0b3eb03a"
