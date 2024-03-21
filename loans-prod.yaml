@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to XBank accounts loans prod APIs"
+  message: "Welcome to XBank accounts loans production APIs"
   contactDetails:
     name: "Pelias Sudhir - Product Owner"
     email: "{cipher}709884256969822881d2cb525ef4a71b1d35ed4fb256024238a514cf7f0fe24f1a0c39f62578af93e4f219699fafaf1c"
