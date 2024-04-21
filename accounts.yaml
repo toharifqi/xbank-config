@@ -4,8 +4,8 @@ build:
 accounts:
   message: "Welcome to XBank accounts related local APIs"
   contactDetails:
-    name: "John Depp - Developer"
-    email: "johnd@xbank.com"
+    name: "Johny Depp - Developer"
+    email: "johnyd@xbank.com"
   onCallSupport:
     - (+62) 858-8888-8888
     - (+62) 838-8818-8883
